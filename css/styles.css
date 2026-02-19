@@ -33,7 +33,7 @@ a { color: inherit; text-decoration: none; }
   border-bottom: 1px solid var(--line);
 }
 .nav-wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.9rem 0; }
-.brand-logo { width: 180px; height: auto; }
+.brand-logo { width: 210px; height: auto; display:block; }
 .main-nav { display: flex; gap: 1.2rem; }
 .main-nav a { color: var(--muted); font-size: 0.93rem; }
 .main-nav a:hover { color: var(--ink); }
@@ -163,7 +163,7 @@ h2 { font-size: clamp(2rem, 4vw, 3.2rem); color: #3b352f; }
   place-items: center;
   gap: 0.6rem;
 }
-.logo-card img { width: min(460px, 90%); }
+.logo-card img { width: min(520px, 92%); height: auto; }
 .logo-card p { margin: 0; color: #6f6559; letter-spacing: .03em; }
 
 .story-layout,
@@ -336,7 +336,7 @@ input, textarea, select {
 }
 @media (max-width: 660px) {
   .section { padding: 3.9rem 0; }
-  .brand-logo { width: 150px; }
+  .brand-logo { width: 175px; }
   .trust-grid, .collection-grid, .product-grid, .fabric-grid, .review-grid, .inline-grid { grid-template-columns: 1fr; }
   .footer-wrap { flex-direction: column; align-items: flex-start; }
 }
