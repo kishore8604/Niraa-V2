@@ -1,0 +1,10 @@
+<svg width="420" height="130" viewBox="0 0 420 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NIRAA logo">
+  <g transform="translate(171 6)" stroke="#B9924E" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 34C38 20 47 10 58 0C69 10 78 20 78 34C78 48 69 58 58 64C47 58 38 48 38 34Z"/>
+    <path d="M22 40C22 30 29 22 40 19C47 33 49 44 46 56C34 54 22 48 22 40Z"/>
+    <path d="M94 40C94 30 87 22 76 19C69 33 67 44 70 56C82 54 94 48 94 40Z"/>
+  </g>
+
+  <text x="210" y="84" text-anchor="middle" fill="#4D4A45" font-family="Cormorant Garamond, serif" font-size="58" letter-spacing="4">NIRAA</text>
+  <text x="210" y="112" text-anchor="middle" fill="#6B655D" font-family="Inter, sans-serif" font-size="12" letter-spacing="5">A UNIT OF SP IMPEX</text>
+</svg>
